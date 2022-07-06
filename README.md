@@ -2,4 +2,4 @@
 integrantes:
 luisa bustamante romero,
 luisa muñoz martinez,
-dahianna alzate gallego
+dahianna alzate gallego.
